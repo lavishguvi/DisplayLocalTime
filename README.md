@@ -1,18 +1,25 @@
-Project Name: Display Local Time
-This project is a simple web page that displays the local time using HTML, CSS, and JavaScript.
+<h1 align="center">Display Local Time</h1>
 
-Project Description:
+<p align="center">
+  <em>A simple web page that displays the local time using HTML, CSS, and JavaScript.</em>
+</p>
+
+## Project Description
 This web page utilizes HTML, CSS, and JavaScript to create a dynamic display of the local time. The time is automatically updated every second without the need for manual refreshing.
 
-Project Structure:
+## Project Structure
 The project consists of the following files:
 
-index.html: This file contains the HTML structure of the web page.
-style.css: This file contains the CSS styling rules to format the appearance of the time display.
-script.js: This file contains the JavaScript code responsible for updating the time display.
-Instructions:
+- `index.html`: This file contains the HTML structure of the web page.
+- `style.css`: This file contains the CSS styling rules to format the appearance of the time display.
+- `script.js`: This file contains the JavaScript code responsible for updating the time display.
+
+## Instructions
 To run this project locally, follow the steps below:
 
-Download or clone the project repository.
-Open the index.html file in a web browser.
-The web page will display the current local time, and it will automatically update every second.
+1. Download or clone the project repository.
+2. Open the `index.html` file in a web browser.
+3. The web page will display the current local time, and it will automatically update every second.
+
+
+Enjoy! 🕒
