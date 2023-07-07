@@ -22,4 +22,4 @@ To run this project locally, follow the steps below:
 3. The web page will display the current local time, and it will automatically update every second.
 
 
-Enjoy! 🕒
+Thank you.
